@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+table {
+	width : 700px;
+	height : 500px;
+	text-align : center;
+}
+
+tr *:first-child{
+  color:#ff69b4;
+}
+tr *:last-child{
+  color:#0ba9ea;
+}
+
+img {
+	width : 700px;
+	height : 500px
+}

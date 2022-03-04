@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.login{
+    position: absolute; top:3%; right:3%;
+}
+
+html{
+	background-color: white;
+}
